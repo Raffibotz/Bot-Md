@@ -18,21 +18,21 @@ global.autoread = false // auto read pesan / message
 //global.available = false //status online (online)
 
 // Other
-global.botname = "GanzZBOtz-Mdོ" //namabot kalian
-global.ownername= "ᴹᴿ᭄Miftah GanzZོ ×፝֟͜×" //nama kalian
-global.myweb ="https://wa.me/6285171226069" //bebas asal jan hapus
-global.youtube = "https://youtube.com" //bebas asal jan hapus
-global.github = "https://wa.me/6285171226069" //bebas
-global.email = "MiftahGanzZ01@gmail.com" //bebas
+global.botname = "SanzBOtz-Mdོ" //namabot kalian
+global.ownername= "ᴹᴿ᭄SANZ STORE ×፝֟͜×" //nama kalian
+global.myweb ="https://wa.me/6288975667597" //bebas asal jan hapus
+global.youtube = "gk punya youtube :v" //bebas asal jan hapus
+global.github = "https://wa.me/6288975667597" //bebas
+global.email = "SANZSTORE1@gmail.com" //bebas
 global.region = "Indonesia" //bebas
-global.ownernomer = "6285171226069" // nomor wa kalian
-global.ownernomerr = "+6285171226069" //nmr wa kalian
+global.ownernomer = "6288975667597" // nomor wa kalian
+global.ownernomerr = "+6288975667597" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["6285171226069","6281367422122","62831391117842"] //ganti agar fitur owner bisa di gunakan
-global.packname = '©GanzZBotz-Mdོ' //sticker wm ubah
-global.author = 'Di Buat Oleh GanzZBotz' //sticker wm ganti nama kalian
+global.owner = ["6288975667597","6285171226069"] //ganti agar fitur owner bisa di gunakan
+global.packname = '©SanzBotz-Mdོ' //sticker wm ubah
+global.author = 'Di Buat Oleh SanzBotz' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
